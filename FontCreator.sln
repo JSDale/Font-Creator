@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontCreator", "FontCreator\FontCreator.csproj", "{9AC5AA64-8F9F-4AA3-979E-616A2EFC0807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontCreatorHelper", "FontCreatorHelper\FontCreatorHelper.csproj", "{ABCAAA59-C09C-44BB-81E7-683D629ACF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC5AA64-8F9F-4AA3-979E-616A2EFC0807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC5AA64-8F9F-4AA3-979E-616A2EFC0807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC5AA64-8F9F-4AA3-979E-616A2EFC0807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC5AA64-8F9F-4AA3-979E-616A2EFC0807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCAAA59-C09C-44BB-81E7-683D629ACF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCAAA59-C09C-44BB-81E7-683D629ACF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCAAA59-C09C-44BB-81E7-683D629ACF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCAAA59-C09C-44BB-81E7-683D629ACF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFBFAB7-48E5-4467-90B8-932C1DE018BF}
+	EndGlobalSection
+EndGlobal
